@@ -103,7 +103,7 @@ export function SQLEditor({
 
   // Load saved query from localStorage on mount
   useEffect(() => {
-    const savedQuery = localStorage.getItem(`sqlnoir-query-${caseId}`);
+    const savedQuery = localStorage.getItem(`investiql-query-${caseId}`);
     if (savedQuery && value === "") {
       onChange(savedQuery);
     }
@@ -111,7 +111,7 @@ export function SQLEditor({
 
   // Save query to localStorage on change
   useEffect(() => {
-    localStorage.setItem(`sqlnoir-query-${caseId}`, value);
+    localStorage.setItem(`investiql-query-${caseId}`, value);
   }, [value, caseId]);
 
   // Fetch table names when database is initialized
