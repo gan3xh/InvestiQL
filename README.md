@@ -6,15 +6,65 @@
 
 ## 📖 Project Overview
 
-### Academic Context
 
-InvestiQL was developed as a capstone project for **Database Systems and SQL Programming** coursework, demonstrating practical application of:
+## 📸 Screenshots
 
-- Complex database design and normalization
-- Advanced SQL query optimization
-- Full-stack web application architecture
-- User experience design for educational software
-- Cloud database integration and deployment
+![Main Dashboard](![ss1](https://github.com/user-attachments/assets/49796898-fdf9-449a-8a9e-adf63c1d8161)
+![ss2](https://github.com/user-attachments/assets/46eda2d3-3c9d-4aaa-8fd3-0d148cde0b6c)
+
+
+
+)
+_Main game interface showing available cases and detective progress_
+
+![Case Selection](
+![ss3](https://github.com/user-attachments/assets/e37e8fd0-a224-4c0c-aa55-b6dab129a792)
+
+)
+_Case selection screen with difficulty levels and XP rewards_
+
+![SQL Editor Interface](![ss5](https://github.com/user-attachments/assets/9bc55008-aab4-4b58-9f70-23c7958c6173)
+)
+_Interactive SQL editor with syntax highlighting and query execution_
+
+![Results Dashboard](![ss6](https://github.com/user-attachments/assets/9e3df75f-2a27-4773-a569-0a2b8f666db8)
+)
+_Query results and case-solving feedback interface_
+
+![Detective Profile](![ss7](https://github.com/user-attachments/assets/085756ca-571a-4b2b-be9d-3f80c0294301)
+)
+_User profile showing achievements, rank progression, and statistics_
+
+## 🎥 Demo Video
+
+[![InvestiQL Demo Video](![ss1](https://github.com/user-attachments/assets/8c02f9af-2513-4ca4-b8d2-ed55b44bfdbc)
+)](https://github.com/user-attachments/assets/c34597b9-89b0-4267-9fc7-8c911b0ca7d5)
+_2-minute demonstration of complete case-solving workflow from rookie to detective level_
+
+
+**Video Contents:**
+
+- Platform overview and navigation
+- Solving a rookie-level case step-by-step
+- Advanced query techniques demonstration
+- Achievement system and progression mechanics
+- Database schema exploration tools
+
+
+## 📚 Project Documentation
+
+📋 **[Complete Project Documentation]([docs/PROJECT_DOCUMENTATION.md](https://github.com/user-attachments/files/20510704/220103020_InvestiQL_Ganesh_Kumar.pdf))**
+
+**Documentation Includes:**
+
+- **Database Schema Design**: ERD diagrams and table relationships
+- **API Endpoints Reference**: Complete REST API documentation
+- **Architecture Decisions**: Technical choices and implementation rationale
+- **Performance Analysis**: Query optimization strategies and benchmarks
+- **Security Implementation**: Authentication and data protection measures
+- **Testing Strategy**: Unit, integration, and user acceptance testing approaches
+- **Deployment Guide**: Infrastructure setup and CI/CD pipeline configuration
+
 
 ### Core Concept
 
@@ -56,49 +106,6 @@ The platform addresses the common challenge of making SQL education engaging by 
 - **Query Performance**: Optimized indexes and database structure
 - **Data Integrity**: Comprehensive constraints and validation rules
 
-## 📸 Screenshots
-
-![Main Dashboard](docs/screenshots/main-dashboard.png)
-_Main game interface showing available cases and detective progress_
-
-![Case Selection](docs/screenshots/case-selection.png)
-_Case selection screen with difficulty levels and XP rewards_
-
-![SQL Editor Interface](docs/screenshots/sql-editor.png)
-_Interactive SQL editor with syntax highlighting and query execution_
-
-![Results Dashboard](docs/screenshots/results-dashboard.png)
-_Query results and case-solving feedback interface_
-
-![Detective Profile](docs/screenshots/detective-profile.png)
-_User profile showing achievements, rank progression, and statistics_
-
-## 🎥 Demo Video
-
-[![InvestiQL Demo Video](docs/video-thumbnail.png)](docs/investiql-demo.mp4)
-_5-minute demonstration of complete case-solving workflow from rookie to detective level_
-
-**Video Contents:**
-
-- Platform overview and navigation
-- Solving a rookie-level case step-by-step
-- Advanced query techniques demonstration
-- Achievement system and progression mechanics
-- Database schema exploration tools
-
-## 📚 Project Documentation
-
-📋 **[Complete Project Documentation](docs/PROJECT_DOCUMENTATION.md)**
-
-**Documentation Includes:**
-
-- **Database Schema Design**: ERD diagrams and table relationships
-- **API Endpoints Reference**: Complete REST API documentation
-- **Architecture Decisions**: Technical choices and implementation rationale
-- **Performance Analysis**: Query optimization strategies and benchmarks
-- **Security Implementation**: Authentication and data protection measures
-- **Testing Strategy**: Unit, integration, and user acceptance testing approaches
-- **Deployment Guide**: Infrastructure setup and CI/CD pipeline configuration
 
 ## 🚀 Local Development Setup
 
