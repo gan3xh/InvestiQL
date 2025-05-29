@@ -187,7 +187,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🙏 Acknowledgments
 
-- **[Your Institution]**: For providing the educational framework and resources
 - **Supabase Team**: For the excellent backend-as-a-service platform
 - **[Awwwards](https://www.awwwards.com/)**: For frontend design inspiration and modern web aesthetics
 - **Open Source Community**: For the tools and libraries that made this project possible
