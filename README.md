@@ -1,10 +1,4 @@
-# InvestiQL 🔍
-
-<p align="center">
-  <img src="public/assets/detective-badge.png" alt="InvestiQL Badge" width="150"/>
-  <br>
-  <em>Where SQL meets Mystery</em>
-</p>
+# InvestiQL 
 
 **InvestiQL** is an innovative educational platform that gamifies SQL learning through interactive crime-solving scenarios. Developed as part of a comprehensive database systems course project, this application transforms traditional SQL education into an engaging detective experience.
 
